@@ -1,5 +1,9 @@
 {
   "name": "car__racing__game",
+  "author": {
+    "name": "Teitei Wisdom",
+    "email": "teiteiwisdom@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
